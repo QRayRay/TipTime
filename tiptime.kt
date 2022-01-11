@@ -7,7 +7,7 @@
     android:layout_margin="16dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
-// change the format to a different style activity
+//Run the app so it run ok on the newest Android studio update.
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="48dp"
